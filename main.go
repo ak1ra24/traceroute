@@ -7,8 +7,6 @@ import (
 	"os/exec"
 	"runtime"
 
-	// "./traceroute"
-	// "./tracert"
 	"github.com/ak1ra24/traceroute/traceroute"
 	"github.com/ak1ra24/traceroute/tracert"
 )
